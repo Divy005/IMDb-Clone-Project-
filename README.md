@@ -142,3 +142,4 @@ To fetch and consolidate detailed movie data using TMDb and OMDb APIs.
 - Centralized, accurate movie data storage.
 - Enabled detailed exploration across various metrics.
 
+![WhatsApp Image 2025-01-19 at 22 12 11_b88a1ea8](https://github.com/user-attachments/assets/0c688a26-30f2-4cd2-a1ff-5d2c31a500e6)
