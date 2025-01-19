@@ -141,5 +141,17 @@ To fetch and consolidate detailed movie data using TMDb and OMDb APIs.
 #### Value Delivered:
 - Centralized, accurate movie data storage.
 - Enabled detailed exploration across various metrics.
+![WhatsApp Image 2025-01-19 at 22 12 15_5a806f22](https://github.com/user-attachments/assets/e590a256-095e-4abe-8a4d-443a4f376a5b)
+![WhatsApp Image 2025-01-19 at 22 12 16_e2632465](https://github.com/user-attachments/assets/03e94dab-b272-4fd8-9461-c7c9c5fbfc72)
+![WhatsApp Image 2025-01-19 at 22 12 16_0073006d](https://github.com/user-attachments/assets/0e94efcb-a975-4439-98cc-60029f1c738d)
+![WhatsApp Image 2025-01-19 at 22 12 14_284e050e](https://github.com/user-attachments/assets/7e7503b4-b362-44c5-8927-684d342cade1)
+![WhatsApp Image 2025-01-19 at 22 12 14_8a44e6a8](https://github.com/user-attachments/assets/6255fd3a-d632-4344-a43e-6c4bcd404aac)
+![WhatsApp Image 2025-01-19 at 22 12 14_c97f125b](https://github.com/user-attachments/assets/0a265a59-d118-4535-ae1f-0b586005bdc7)
+![WhatsApp Image 2025-01-19 at 22 12 13_6e5e7580](https://github.com/user-attachments/assets/f939339f-9ecf-4328-87d1-3e8fbe078d3f)
+
+
+
+
+
 
 ![WhatsApp Image 2025-01-19 at 22 12 11_b88a1ea8](https://github.com/user-attachments/assets/0c688a26-30f2-4cd2-a1ff-5d2c31a500e6)
